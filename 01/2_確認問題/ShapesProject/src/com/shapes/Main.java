@@ -2,10 +2,10 @@ package com.shapes;
 
 public class Main {
 	public static void main(String[] args) {
-		Shape shape1 = new Circle();
-		shape1.draw();
+		Circle circle = new Circle();
+		circle.draw();
 		
-		Shape shape2 = new Square();
-		shape2.draw();
+		Square square = new Square();
+		square.draw();
 	}
 } 
