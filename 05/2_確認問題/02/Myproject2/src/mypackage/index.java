@@ -14,4 +14,3 @@ public class index {
         System.out.println("ショッピングカートの合計金額: $" + cart.getTotalPrice());
     }
 }
-
